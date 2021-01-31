@@ -1,0 +1,10 @@
+__venv__/
+
+config.toml
+config.toml.lock
+__pycache__
+
+# Ignore Visual Studio Code internals
+/.vscode
+/debug
+debug.test
