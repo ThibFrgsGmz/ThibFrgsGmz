@@ -3,6 +3,7 @@
   <h3>(つ✧ω✧)つ(つ✧ω✧)つ</h3>
 </div>
 <br>
+
 <div align="center">
   <a href=  "">
       <img src=
@@ -80,3 +81,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThibFrgsGmz&layout=compact)](https://github.com/ThibFrgsGmz/github-readme-stats)
 </div>
+
+
+---
+
+<a href="https://github.com/ThibFrgsGmz/github-profile-views-counter">
+  <img src="https://komarev.com/ghpvc/?username=ThibFrgsGmz&label=PROFILE+VIEWS&style=flat-square&color=red">
+</a>
