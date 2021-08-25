@@ -88,3 +88,6 @@
 <a href="https://github.com/ThibFrgsGmz/github-profile-views-counter">
   <img src="https://komarev.com/ghpvc/?username=ThibFrgsGmz&label=PROFILE+VIEWS&style=flat-square&color=red">
 </a>
+
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/ThibFrgsGmz/ThibFrgsGmz/output/github-contribution-grid-snake.svg)
