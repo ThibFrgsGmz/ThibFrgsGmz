@@ -46,6 +46,7 @@
   <a href = "https://github.com/ThibFrgsGmz/ThibFrgsGmz/issues"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
      <a href="https://www.hackerearth.com/@ThibFrgsGmz" target="_blank"><img src="https://img.shields.io/static/v1?color=0366d6&label=%20&labelColor=5c5c5c&logo=hackerearth&logoColor=ffffff&message=Hacker Earth&style=for-the-badge" /></a>
    <a href="https://www.hackerrank.com/ThibFrgsGmz?hr_r=1" target="_blank"><img src="https://img.shields.io/static/v1?color=0366d6&label=%20&labelColor=5c5c5c&logo=hackerrank&logoColor=ffffff&message=Hacker Rank&style=for-the-badge" /></a>
+  <a href="https://www.udemy.com/user/thibault-157/" target="_blank"><img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" /></a>
 
 </div>
 
