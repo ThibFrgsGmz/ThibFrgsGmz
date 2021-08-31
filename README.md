@@ -44,7 +44,9 @@
   <a href="https://github.com/ThibFrgsGmz" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thibault-farges-7a8944ba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "https://github.com/ThibFrgsGmz/ThibFrgsGmz/issues"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+     <a href="https://www.hackerearth.com/@ThibFrgsGmz" target="_blank"><img src="https://img.shields.io/static/v1?color=0366d6&label=%20&labelColor=5c5c5c&logo=hackerearth&logoColor=ffffff&message=Hacker Earth&style=for-the-badge" /></a>
 
+</div>
 
 ---
 
