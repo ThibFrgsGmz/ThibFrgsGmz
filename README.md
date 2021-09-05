@@ -100,6 +100,9 @@
 
 ### Philosophy: "Everything always comes from work, including the free gift of the idea that happens.[...]" (Le Tiers-Instruit, p.144, Folio/essais n°199)
 
+---
+
+[ </> 🆁🅴🆂🆄🅼🅴 🅲🅾🅳🅸🅽🅶 👨‍💻](https://github.com/issues?q=is%3Aopen+is%3Aissue+archived%3Afalse+author%3AThibFrgsGmz)
 
 ---
   
