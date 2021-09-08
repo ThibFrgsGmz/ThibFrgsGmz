@@ -49,8 +49,6 @@
   <a href = "https://github.com/ThibFrgsGmz/ThibFrgsGmz/discussions"><img src="https://img.shields.io/badge/-Contact Me-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
      <a href="https://www.hackerearth.com/@ThibFrgsGmz" target="_blank"><img src="https://img.shields.io/static/v1?color=0366d6&label=%20&labelColor=5c5c5c&logo=hackerearth&logoColor=ffffff&message=Hacker Earth&style=for-the-badge" /></a>
    <a href="https://www.hackerrank.com/ThibFrgsGmz?hr_r=1" target="_blank"><img src="https://img.shields.io/static/v1?color=0366d6&label=%20&labelColor=5c5c5c&logo=hackerrank&logoColor=ffffff&message=Hacker Rank&style=for-the-badge" /></a>
-  <a href="https://www.udemy.com/user/thibault-157/" target="_blank"><img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" /></a>
-
 </div>
 
 ---
@@ -99,6 +97,25 @@
 ***
 
 ### Philosophy: "Everything always comes from work, including the free gift of the idea that happens.[...]" (Le Tiers-Instruit, p.144, Folio/essais n°199)
+
+---
+
+<tr>
+    <td>
+        <a href="https://www.udemy.com/" target="_blank"><img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" /></a>
+    </td>
+<td>
+<samp font="Raleway">
+    <details>
+        <summary>Certificate of completion</summary>
+        <div>
+            <span><a href="https://www.udemy.com/certificate/UC-20be7661-58bb-4aac-a098-bb4081b4fd8b/" target="_blank">The Complete Guide to Becoming a Software Architect</a>
+            </span>
+        <br>
+        <span><a href="https://www.udemy.com/certificate/UC-6fed657f-693e-499c-a6de-8e972b5de38f/" target="_blank">Learn C++ Programming -Beginner to Advance- Deep Dive in C++</a></span>
+        </div></details></samp> 
+        </td>
+</tr>
 
 ---
 
