@@ -96,10 +96,34 @@
   </a>
 </div>
 
-***
 
-### Philosophy: "Everything always comes from work, including the free gift of the idea that happens.[...]" (Le Tiers-Instruit, p.144, Folio/essais n°199)
+---
+---
 
+# Mindset
+
+```
+"Everything always comes from work, including the free gift of the idea that happens.[...]"
+
+    - Le Tiers-Instruit, p.144, Folio/essais n°199
+```
+
+```
+"Work like hell. I mean you just have to put in 80 to 100 hour weeks every week.
+ This improves the odds of success. If other people are putting in 40 hour workweeks and
+ you're putting in 100 hour workweeks, then even if you're doing the same thing,
+ you know that you will achieve in four months what it takes them a year to achieve."
+
+    - Elon Musk
+```
+
+```
+"Dare Mighty Things"
+
+    - Motto of NASA's Jet Propulsion Lab.
+```
+
+---
 ---
 
 <tr>
