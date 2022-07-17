@@ -137,6 +137,7 @@
         <div>
             <span><a href="https://www.udemy.com/certificate/UC-20be7661-58bb-4aac-a098-bb4081b4fd8b/" target="_blank">The Complete Guide to Becoming a Software Architect</a>
             </span>
+        <br>
             <span><a href="https://www.udemy.com/certificate/UC-a096fb71-c535-43dc-a804-81222b58d996/" target="_blank">Microservices Architecture - The Complete Guide</a>
             </span>
         <br>
