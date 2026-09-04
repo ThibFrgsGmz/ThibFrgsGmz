@@ -1,43 +1,42 @@
 <div align="center">
-  <h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width, height="25px">, I'm Thibault ! (つ✧ω✧)つ</h1>
+  <h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="waving hand" width="25" height="25">, I'm Thibault ! (つ✧ω✧)つ</h1>
 </div>
 <br>
 
  <div>
   <a href="https://github.com/ThibFrgsGmz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThibFrgsGmz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThibFrgsGmz&hide=css,html,javascript&layout=compact&langs_count=7&theme=dracula&show_icons=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ThibFrgsGmz&theme=dracula&hide_border=false"/>
-</p>
-    
+    <img height="180em" alt="ThibFrgsGmz's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=ThibFrgsGmz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThibFrgsGmz&hide=css,html,javascript&layout=compact&langs_count=7&theme=dracula&show_icons=true"/>
+    <img height="180em" alt="GitHub contribution streak" src="https://streak-stats.demolab.com/?user=ThibFrgsGmz&theme=dracula&hide_border=false"/>
+  </a>
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Rafa-cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
-  <img align="center" alt="Rafa-bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
+  <img align="center" alt="Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
 
-  <img align="center" alt="Rafa-docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 
-  <img align="center" alt="Rafa-gcc" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gcc/gcc-original.svg">
+  <img align="center" alt="GCC" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gcc/gcc-original.svg">
 
-  <img align="center" alt="Rafa-github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-
-
-  <img align="center" alt="Rafa-markdown" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg">
-
-  <img align="center" alt="Rafa-subversion" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/subversion/subversion-original.svg">
-  <img align="center" alt="Rafa-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 
 
-  <img align="center" alt="Rafa-linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Rafa-ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
+  <img align="center" alt="Markdown" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg">
 
-  <img align="center" alt="Rafa-vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Rafa-visualstudio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
+  <img align="center" alt="Subversion" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/subversion/subversion-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+
+
+  <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
+
+  <img align="center" alt="Visual Studio Code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Visual Studio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
   
 </div>
 
@@ -84,7 +83,7 @@
 <div align="left"> 
   <a href=  "">
       <img src=
-      "https://img.shields.io/badge/CONINUOUS-%20LEARNING%20-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
+      "https://img.shields.io/badge/CONTINUOUS-%20LEARNING%20-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
   </a>    
   <a href=  "">
       <img src=
@@ -126,6 +125,7 @@
 ---
 ---
 
+<table>
 <tr>
     <td>
         <a href="https://www.udemy.com/" target="_blank"><img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" /></a>
@@ -145,6 +145,7 @@
         </div></details></samp> 
         </td>
 </tr>
+</table>
 
 ---
 
